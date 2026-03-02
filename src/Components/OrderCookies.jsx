@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import OrderCookiesBG from "../assets/OrderCookiesBG.png";
-import LeftButton from "../assets/Leftbutton.png";
+import LeftButton from "../assets/LeftButton.png";
 import RightButton from "../assets/RightButton.png";
 import ClassicChocoShip from "../assets/ClassicChocoShip.png";
 import DoubleChocolate from "../assets/DoubleChocolate.png";

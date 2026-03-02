@@ -48,19 +48,14 @@ const CookieSlider = () => {
       `}
     />
   ))}
-</div>
-
-
-
-
-
+</div>  
       <div className="flex pt-10 gap-30 md:50">
         <button
           onClick={handleLeftClick}
           className="border bg-white text-blue-700 font-bold border-gray-400 px-4 py-2 rounded hover:bg-gray-200 transition"
         >
           Left
-        </button>
+        </button> 
         <button
           onClick={handleRightClick}
           className="border bg-white text-blue-700 font-bold border-gray-400 px-4 py-2 rounded hover:bg-gray-200 transition"
